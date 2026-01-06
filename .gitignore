@@ -1,0 +1,16 @@
+venv
+__pycache__/
+*/__pycache__/*
+*/.ipynb_checkpoints/*
+*/.vscode/*
+*/.idea/*
+*/.git/*
+*/.gitignore
+*/.DS_Store
+*/.env
+*/.env.example
+*/.env.local
+*/.env.development
+*/.env.test
+*/.env.production
+*/.env.local
